@@ -18,7 +18,7 @@ When adding students interface will trun on you can start adding users. Users ca
 ```teminal
 first_name last_name email 
 ```
-Every added student get id.
+Every added student get id bound to itself.
 
 ### list
 If you want to get list of students id's, use list command.
