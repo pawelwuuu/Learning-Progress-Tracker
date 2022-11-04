@@ -55,6 +55,3 @@ Notify command will print (only once per course) all students that have complete
 
 ## License
 Programme is released under GNU GPL license.
-
-## Download JAR
-Download jar [here](https://github.com/pawelwuuu/Learning-Progress-Tracker/releases/download/app/Learning-Progress-Tracker.jar).
